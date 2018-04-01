@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightGreen">#90ee90</color>
+    <color name="colorPink">#e91e63</color>
+    <!--数字值颜色-->
+    <color name="colorLightGreen_1">#84c551</color>
+    <color name="colorLightGreen_2">#008000</color>
+    <color name="colorLightGreen_3">#22b14c</color>
+    <color name="colorLightGreen_4">#808000</color>
+    <color name="colorLightGreen_5">#1afa29</color>
+    <!--白色-->
+    <color name="colorWhite">#ffffff</color>
+    <!-- 透明 -->
+    <color name="Transparent">#00000000</color>
+    <!-- 黑色系 -->
+    <color name="Black">#000000</color>
+    <color name="Black_TtranA">#9f000000</color>
+    <color name="Black_TtranB">#3f000000</color>
+    <color name="Black_Txt">#666666</color>
+    <color name="Black_GREY">#515151</color>
+    <color name="Black_GREY_1">#707070</color>
+    <color name="Black_ziti">#292929</color>
+    <!-- 白色系 -->
+    <color name="White">#ffffff</color>
+    <color name="White_TranA">#9fffffff</color>
+    <color name="grey">#c0c0c0</color>
+    <!-- 红色系 -->
+    <color name="Red">#d81e06</color>
+    <color name="WineRed">#800040</color>
+    <!-- 蓝色系 -->
+    <color name="Blue_Txt">#4cbce3</color>
+    <color name="Blue_BigImgBrowGuideBar">#151418</color>
+    <color name="Blue_BtnBg">#3095dc</color>
+    <color name="Ali_Blue">#1296db</color>
+    <color name="Blue_SplashBg">#f9fdff</color>
+    <color name="Blue_Deep">#13227A</color>
+    <color name="Blue_Deep1">#37474f</color>
+    <!-- 黄色系 -->
+    <color name="Yellow_Txt">#fba819</color>
+    <color name="Yellow_Ppw">#fbb130</color>
+    <color name="Yellow_PpwDiv">#e9a021</color>
+    <color name="Yellow">#fff200</color>
+    <!-- 灰色系 -->
+    <color name="Gray_HintTxt">#b2b2b2</color>
+    <color name="Gray_AtyBg">#eaecee</color>
+    <color name="Gray_ShallowBg">#F8F9FA</color>
+    <color name="Gray_SendTxt">#9c9c9c</color>
+    <color name="Gray_Btm">#fcfcfc</color>
+    <color name="background_gray">#efeff4</color>
+    <color name="line_gray">#c8c7cb</color>
+</resources>
